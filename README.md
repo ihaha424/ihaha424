@@ -2,8 +2,11 @@
 
 ###
 Name: Kim Dong Min
+
 School: Gachon University
+
 Career:
+
 https://dongmiki.notion.site/My-Career-43f36bc3cecb4fe9850886453249a0b1?pvs=4
 ###
 
