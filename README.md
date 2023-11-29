@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+###
+Name: Kim Dong Min
+School: Gachon University
+Career:
+https://dongmiki.notion.site/My-Career-43f36bc3cecb4fe9850886453249a0b1?pvs=4
+###
+
 <!--
 **ihaha424/ihaha424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
