@@ -3,6 +3,9 @@
 ###
 Name: Kim Dong Min
 
+Motto: “문제를 해결 할 때 분석을 통해 구조를 나누고 하나하나 기능을 구성해가며 동작하는 것을 보는 것이 즐겁다.”
+
+
 School: Gachon University
 
 Career:
