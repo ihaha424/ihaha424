@@ -9,7 +9,7 @@ School: Gachon University
 
 Career:
 
-https://dongmiki.notion.site/My-Career-43f36bc3cecb4fe9850886453249a0b1?pvs=4
+[https://dongmiki.notion.site/My-Career-43f36bc3cecb4fe9850886453249a0b1?pvs=4](https://www.notion.so/Portfolio-24c57e1d999580cb9daecb4500e96172?pvs=94)
 ###
 
 <!--
