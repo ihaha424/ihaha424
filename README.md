@@ -7,7 +7,7 @@ Motto: “문제를 해결 할 때 분석을 통해 구조를 나누고 하나�
 
 School: Gachon University
 
-### Portfolio:
+### Portfolio - 김동민
 
 [https://dongmiki.notion.site/My-Career-43f36bc3cecb4fe9850886453249a0b1?pvs=4](https://www.notion.so/Portfolio-24c57e1d999580cb9daecb4500e96172?pvs=94)
 ###
