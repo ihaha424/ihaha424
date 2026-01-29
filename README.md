@@ -9,7 +9,7 @@ School: Gachon University
 
 ### Portfolio - 김동민
 
-[https://dongmiki.notion.site/My-Career-43f36bc3cecb4fe9850886453249a0b1?pvs=4](https://www.notion.so/Portfolio-24c57e1d999580cb9daecb4500e96172?pvs=94)
+[Portfolio 바로가기](https://www.notion.so/c8b57e1d999583f88e4e8182a33a89ff?source=copy_link)
 ###
 # 🎯 최근 프로젝트
 
