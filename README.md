@@ -1,9 +1,11 @@
-### Hi there 👋
+### 프로필
+<img width="281" height="140" alt="image" src="https://github.com/user-attachments/assets/a23028a3-2a74-42ea-9ce7-75ff32c07e86" />
+
 
 ###
 Name: Kim Dong Min
 
-Motto: “문제를 해결 할 때 분석을 통해 구조를 나누고 하나하나 기능을 구성해가며 동작을 확인 하다 보면 해결 할 수 있다.”
+Motto: “아직 배워가는 단계지만, 문제를 구조화하고 단계적으로 구현·검증하며 해결하려 노력하고 있습니다.”
 
 School: Gachon University
 
